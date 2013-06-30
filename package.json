@@ -1,0 +1,25 @@
+{
+  "name": "dispatcher.io-exec",
+  "version": "0.0.0",
+  "description": "Exec transport for dispatcher.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leostera/dispatcher.io-exec"
+  },
+  "keywords": [
+    "dispatcher.io",
+    "transport",
+    "exec"
+  ],
+  "author": "Leandro Ostera <sayhi@leostera.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leostera/dispatcher.io-exec/issues"
+  },
+  "dependencies": {
+  }
+}
