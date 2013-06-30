@@ -1,3 +1,3 @@
-# Growl transport for Dispatcher.io
+# Exec transport for Dispatcher.io
 
-Follow instructions at [node-growl](https://github.com/visionmedia/node-growl) to make it work on your system!
+It just executes the message you pass to it and uses the options as the arguments.
